@@ -1,0 +1,264 @@
+body{
+	background-color: whitesmoke;
+	margin: auto 0;
+}
+
+.container {
+	width: 1120px;
+	margin: 0 auto;
+}
+
+.header{
+	display: flex;
+	justify-content: space-between;
+}
+
+.logo{
+	padding-top: 3%;
+	padding-left: 8%;	
+}
+
+.search{ 
+	height: 25px;
+	margin-top: 4.5%;
+	margin-right: 4%;
+	width: 180px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.nav li {
+	display: block;
+}
+
+.nav {
+	display: flex;
+	justify-content: space-between;
+	width: 1000px;
+	padding-left: 10%;
+}
+
+.welcomeText{
+	width: 30%;
+	padding-left: 13%;
+	padding-top: 18px;
+}
+
+.wrapper{
+	display: flex;
+	justify-content: space-between;
+}
+
+.foto{
+	padding-right: 10%;
+	padding-top: 11px;
+}
+
+.box{
+	margin-left: 7.5%;
+	margin-top: 5%;
+	background-color: aquamarine;
+	width: 25%;
+	padding:10px 15px;
+	border-radius: 15px;
+}
+
+.title {
+	color: #fff;
+}
+
+.text{
+	color: #fff;
+
+}
+
+.btn {
+	display: flex;
+	justify-content: end;
+}
+
+.btn_learn_more{
+	background-color: darkcyan;
+	border-radius: 15px;
+	width: 20%;
+}
+
+.info{
+	display: flex;
+	justify-content: space-between;
+	margin-left: 7.5%;
+	margin-top: 5%;
+}
+
+.textInfo{
+	font-size: 13px;
+	width: 150px;
+	right: 12px;
+}
+
+.leftInfo {
+	width: 250px;
+}
+
+.rightFotoInfo{
+	margin-left: 10%;
+}
+
+footer{
+	padding: 0.5px 0;
+	width: 100%;
+	background-color: gray;
+}
+
+.fotoOrange{
+	width: 100px;
+}
+
+.centerInfo{
+	width: 370px;
+	margin-left: 50px;
+}
+
+.clas{
+	color: darkcyan;
+	font-style: italic;
+}
+
+.texts2{
+	padding-top: 20px;
+	padding-left: 20px;
+	font-size: 13px;
+}
+
+.orangen{
+	width: 250px;
+	margin-top: 20px;
+	margin-left: 80px;
+}
+
+.secondText2{
+	border-radius: 13px;
+	font-size: 13px;
+	margin-top: 40px;
+	margin-left: 80px;
+}
+
+
+
+/* About Us */
+
+
+.WhoWeAre{
+	margin-left: 85px;
+}
+
+.chair{
+	width: 150px;
+	height: 150px;
+}
+
+.span {
+	font-style: italic;
+	color: darkcyan;
+}
+
+.chairFoto{
+	display: flex;
+	justify-content: space-between;
+	width: 650px;
+	padding-top: 10px;
+	padding-left: 90px;
+}
+
+.textofAboutUs{
+	margin-left: 30px;
+	margin-top: -5px;
+}
+
+.OurServices{
+	padding-left: 90px;
+	width: 650px;
+}
+
+.textUnderLeftContent{
+	display: flex;
+	justify-content: space-between;
+}
+
+.texts{
+	font-size: 13px;
+	padding-left: 100px;
+}
+
+.secondText{
+	font-size: 13px;
+}
+
+.under{
+	color: darkcyan;
+}
+
+.btn2{
+	display: flex;
+	justify-content: end;
+	margin-bottom: 15px;
+}
+
+.wrapper2{
+	display: flex;
+}
+
+.ourNews{
+	padding-top: 20px;
+	padding-left: 80px;
+}
+
+.ourNewstitle{
+	display: flex;
+	justify-content: space-between;
+	width: 300px;
+}
+
+.textsOurNews{
+	color: darkcyan;
+	margin-top: -5px;
+	margin-left: 15px;
+}
+
+.ourNewsUndertitle{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 60px;
+	width: 300px;
+}
+
+.threeOrangen{
+	height: 85px;
+}
+
+.underTextsOurNews{
+	margin-left: 15px;
+	margin-top: -6px;
+	color: darkcyan;
+}
+
+.titelTestimonials{
+}
+
+.qwerty{
+	font-style: italic;
+}
+
+.asd{
+	color: darkcyan;
+}
+
+
+
+/* Lastest News */
+
+
+
